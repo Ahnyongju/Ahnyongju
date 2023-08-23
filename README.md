@@ -12,7 +12,7 @@
 - ⚡ Fun fact: ...
 
 
-![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/Ahnyongju?label=Follow&style=social)
 
 
 
