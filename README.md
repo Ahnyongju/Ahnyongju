@@ -6,12 +6,14 @@
 - 👥 백엔드 개발과 관련된 프로젝트나 토론에 관심이 많습니다. 함께 이야기해요!
 ![Java](https://img.shields.io/badge/-Java-red?logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring-boot&logoColor=white)
+
+
 ![GitHub followers](https://img.shields.io/github/followers/Ahnyongju?label=Follow&style=social)
 
 📫 연락 방법: 
-- GitHub: @[당신의 깃허브 아이디]
-- Email: [이메일 주소]
-- [기타 SNS 링크]
+- GitHub: @Ahnyongju
+- Email: for4014@gmail.com
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&link=https://www.instagram.com/ju_dragon.an/)](https://www.instagram.com/john_doe/)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahnyongju&show_icons=true&theme=radical)
