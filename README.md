@@ -13,7 +13,7 @@
 📫 연락 방법: 
 - GitHub: @Ahnyongju
 - Email: for4014@gmail.com
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&link=https://www.instagram.com/ju_dragon.an/)](https://www.instagram.com/john_doe/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&link=https://www.instagram.com/ju_dragon.an/)](https://www.instagram.com/ju_dragon.an/)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahnyongju&show_icons=true&theme=radical)
