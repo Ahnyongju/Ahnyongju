@@ -13,9 +13,6 @@
 ![image](https://github.com/Ahnyongju/Ahnyongju/assets/129583887/9725466b-362d-4ab6-9475-5f5c101f17c7)
 ![image](https://github.com/Ahnyongju/Ahnyongju/assets/129583887/c5f983e1-4244-4412-a1d5-67dd2a88783d)
 
-
-
-
 ![Java](https://img.shields.io/badge/-Java-red?logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring-boot&logoColor=white)
 ![GitHub followers](https://img.shields.io/github/followers/Ahnyongju?label=Follow&style=social)
