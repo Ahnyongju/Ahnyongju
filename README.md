@@ -14,6 +14,8 @@
 ![Java](https://img.shields.io/badge/-Java-red?logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring-boot&logoColor=white)
 ![GitHub followers](https://img.shields.io/github/followers/Ahnyongju?label=Follow&style=social)
+<i class="fas fa-database"></i> Redis
+
 
 📫 연락 방법: 
 
