@@ -5,7 +5,7 @@
 - 👥 백엔드 개발과 관련된 프로젝트나 토론에 관심이 많습니다. 함께 이야기해요! 
 
    
-💻 Tool
+💻 Used
  
 ![image](https://github.com/Ahnyongju/Ahnyongju/assets/129583887/1a1ba1f1-29d7-4871-b2bb-cc99e467fc92)
 ![image](https://github.com/Ahnyongju/Ahnyongju/assets/129583887/9725466b-362d-4ab6-9475-5f5c101f17c7)
