@@ -18,7 +18,6 @@
 📫 연락 방법: 
 
 - Email: for4014@gmail.com
-- Blog: https://velog.io/@for1186
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&link=https://www.instagram.com/ju_dragon.an/)](https://www.instagram.com/ju_dragon.an/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahnyongju&show_icons=true&theme=radical)
