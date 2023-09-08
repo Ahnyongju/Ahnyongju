@@ -13,8 +13,17 @@
 
 ![Java](https://img.shields.io/badge/-Java-red?logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring-boot&logoColor=white)
+
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+![S3](https://img.shields.io/badge/-S3-569A31?logo=amazon-s3&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+
 ![GitHub followers](https://img.shields.io/github/followers/Ahnyongju?label=Follow&style=social)
-<i class="fas fa-database"></i> Redis
+
 
 
 📫 연락 방법: 
