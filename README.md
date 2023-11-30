@@ -5,8 +5,6 @@
 - 👥 풀스택 개발자입니다.
 
     
-   dd
-💻 Used  
  
 ![image](https://github.com/Ahnyongju/Ahnyongju/assets/129583887/1a1ba1f1-29d7-4871-b2bb-cc99e467fc92)
 ![image](https://github.com/Ahnyongju/Ahnyongju/assets/129583887/9725466b-362d-4ab6-9475-5f5c101f17c7)
